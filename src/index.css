@@ -11,3 +11,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  font-family:'Jura', sans-serif;
+}
+.row1{
+  background-image: url("./assets/bac.jpg");
+}
+.button1{
+  margin-bottom: 150px;
+  background-color: #f44336;
+  border-radius: 30px;
+  width: 200px;
+  font-size: 20px
+}
+.buttonX{
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  border-radius: 30px;
+  width: 100px;
+  margin-right: 50px;
+}
+.carousel slide {
+  height: 500px;
+  margin-bottom: 60px;
+}
+.carousel .item {
+  height: 500px;
+}
+.blk{
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+.carousel-control-prev-icon {
+  background-color: black;
+}
+.carousel-control-next-icon{
+  background-color: black;
+}
